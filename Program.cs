@@ -2,7 +2,7 @@
 
 namespace PyP2_ExamenGrupal1
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
