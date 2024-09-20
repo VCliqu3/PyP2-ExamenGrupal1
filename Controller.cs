@@ -40,6 +40,7 @@ namespace PyP2_ExamenGrupal1
 
         public void Execute()
         {
+
             GenerateNodes();
             GenerateInitialMaintenanceStructures();
 
