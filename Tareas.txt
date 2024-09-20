@@ -1,0 +1,5 @@
+Mirko - Interfaces
+Gilmer - Clase Entidad
+Sebastian - Unidades
+Kotaro - Estructuras
+Raphael - Controller
